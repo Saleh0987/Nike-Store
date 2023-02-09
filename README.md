@@ -1,5 +1,5 @@
 # Nike-Store
-# technologies
+## technologies
 - Vite
 - React,
 - React Redux,
